@@ -9,7 +9,7 @@ metadata:
     kubernetes.io/ingress.class: "nginx"
 spec:
   rules:
-    - host: 'slashlost'.westus2.cloudapp.azure.com
+    - host: a2f33adf0ed6a49d1b2d71eacebef6fa-1424522492.ap-southeast-2.elb.amazonaws.com
       http:
         paths:
           - backend:
