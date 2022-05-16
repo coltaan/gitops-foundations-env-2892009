@@ -18,7 +18,8 @@ spec:
             service:
               name: gitops-foundations-service
               port:
-                number: 80spec:
+                number: 80
+#spec:
 #   rules:
 #     - host: example.com
 #       http:
